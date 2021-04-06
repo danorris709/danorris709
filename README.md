@@ -5,4 +5,4 @@
   <a href="https://www.reddit.com/user/danorris709"><img src="https://img.shields.io/reddit/user-karma/link/danorris709?label=Reddit&style=social" alt="Reddit"></a>
 </p>
 
-[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danorris709)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danorris709)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=dark&show_icons=true)
