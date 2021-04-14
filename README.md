@@ -8,3 +8,5 @@
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danorris709&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danorris709&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danorris709&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
