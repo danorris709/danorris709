@@ -7,7 +7,9 @@
 <p align="center">
 	<a href="https://wakatime.com/@3394bcae-bbba-4048-b607-0f1ab5eb5928"><img src="https://wakatime.com/badge/user/3394bcae-bbba-4048-b607-0f1ab5eb5928.svg?style=for-the-badge" alt="Total time coded since Apr 14 2021" /></a>
 </p>
-<p align="left">
+<p align="center">
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danorris709&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="GitHub">
+</p>
+<p align="center">
 	<img src="https://streak-stats.demolab.com?user=danorris709&theme=java-dark&hide_border=true&border_radius=30)](https://git.io/streak-stats" alt="GitHub">
 </p>
