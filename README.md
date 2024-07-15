@@ -10,5 +10,5 @@
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danorris709&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="GitHub">
 </p>
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=danorris709&theme=java-dark&hide_border=true&border_radius=30](https://git.io/streak-stats" alt="GitHub">
+	<img src="https://streak-stats.demolab.com/?user=danorris709&theme=dark&hide_border=true](https://streak-stats.demolab.com/?user=danorris709&theme=dark&hide_border=true)](https://git.io/streak-stats" alt="GitHub">
 </p>
